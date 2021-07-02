@@ -109,7 +109,6 @@ if(isset($_GET["error"]) AND $_GET["error"] == "user_not_exist"){
                <button  type="submit" class="form_btn" name="signup_btn">Sign Up</button>
             </form>
           </div>
-          fhgfhf
           <div class="sign-in-container">
             <!------------------------------------------------------SIGN IN CONTAINER-------------------------------------------->
             <!-- <form  action="check_login.php" name="signin_form" id="signin_form"  method="post" onsubmit="return validation_on_signin();"> -->  <form  action="check_login.php" name="signin_form" id="signin_form"  method="post" onsubmit="return validation_on_signin();" > 
